@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sinovuyo!</h1>
 
-<h1>👨‍💻My Projects</h1>
-- <b>Small clinic system (HTML,CSS,Javascript)</b>
+<h2>👨‍💻My Projects:</h2>
+- <b>Small clinic system (HTML,CSS,Javascript)</b><br>
  - [Small clinic system](https://github.com/DonnaLeeJordaan/Medical-Tracking-System)
 <h2> 🤳 Connect with me:</h2>
 
