@@ -1,8 +1,10 @@
 <h1>Hi, I'm Sinovuyo!</h1>
 
 <h2>👨‍💻My Projects:</h2>
-- <b>Small clinic system (HTML,CSS,Javascript)</b><br>
- - [Small clinic system](https://github.com/DonnaLeeJordaan/Medical-Tracking-System)
+
+- <b>Small clinic system (HTML,CSS,Javascript)</b>
+- [Small clinic system](https://github.com/DonnaLeeJordaan/Medical-Tracking-System)
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SinovuyoMathungana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
