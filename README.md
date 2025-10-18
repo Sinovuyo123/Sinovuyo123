@@ -11,6 +11,7 @@
 
 [linkedin]: https://linkedin.com/in/sinovuyo-mathungana-217177351
 
+![WhatsApp Image 2025-09-30 at 15 23 04_cacba551](https://github.com/user-attachments/assets/bb1a85f5-34fb-4ec2-bf61-a525c5b3a1e3)
 
 
 <!--
